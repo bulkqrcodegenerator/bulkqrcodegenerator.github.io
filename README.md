@@ -1,0 +1,1 @@
+# bulkqrcodegenerator.github.io
